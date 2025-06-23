@@ -1,0 +1,8 @@
+sky = Instance.new("Sky")
+sky.Parent = game.Lighting
+sky.SkyboxDn = "rbxassetid://879897574"
+sky.SkyboxFt = "rbxassetid://879897574"
+sky.SkyboxLf = "rbxassetid://879897574"
+sky.SkyboxRt = "rbxassetid://879897574"
+sky.SkyboxUp = "rbxassetid://879897574"
+sky.SkyboxBk = "rbxassetid://879897574"
